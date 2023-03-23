@@ -1,0 +1,92 @@
+body{
+    background: url(https://acaedf.org/wp-content/uploads/2021/03/ACAEDF-Land-of-Hope-Children-Center-Reading1.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+    color: #f13f3f;
+}
+
+header{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.head{
+    float: left;
+    color: #f13f3f;
+    font-family: cursive;
+}
+
+nav{
+    float: right;
+}
+
+li{
+    display: inline;
+    padding: 1rem;
+}
+
+li a{
+    color: #1d0ee7;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.active{
+    color: rgb(43, 37, 227);
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 1%;
+}
+
+showcase h1{
+    color: #ed1414;
+    font-family: cursive;
+    text-align: center;
+}
+
+showcase h3{
+    color: #0ff340;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.category{
+    color: #3df813;
+    margin-top: 5%;
+    display: flex;
+    text-align: center;
+    font-family: cursive;
+}
+
+img{
+    width: 70%;
+    border-radius: 50%;
+}
+
+.snacks, .grill{
+    padding-left: 1rem;
+}
+
+h4{
+    font-size: 1.5rem; /*1rem=16px */
+    margin: 3%;
+}
+
+.btn{
+    background-color: gold;
+    padding: 1rem;
+    border: none;
+    border-radius: 8px;
+    margin-left: 45%;
+}
+/* Start of login */
+
+/*THANK YOU*/
+
+/*HAPPY CODING*/
