@@ -38,4 +38,4 @@ This website is released under the MIT License. See LICENSE.txt for more informa
 
 ## Acknowledgements
 
-The website was created by [Your Name Here], based on designs by [Designer Name Here]. Special thanks to [Instructor Name Here] for guidance and support.
+The website was created by Kemboi Michael through reserch.
