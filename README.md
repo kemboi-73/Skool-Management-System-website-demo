@@ -1,5 +1,3 @@
-Sure, here's an example README for a School Management System website demo written in HTML and CSS:
-
 # School Management System Website Demo
 
 This is a demo website for a school management system, designed to showcase the various features that a school management system might have. The website is built using HTML and CSS.
